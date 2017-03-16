@@ -14,6 +14,6 @@
 - Currently, I only upload the parser coding for convert pcap to csv
 - I will upload the codes of RYU later in May after the final presentation
 ## folder structure in this repo
-- ```pcap_parsing_and_data_training``` store the code of pcap parser and the ML code for training the clf(classifiers). Those clf are used in RYU later
-- ```ryu_code``` store the ryu controller codes, there will be only 2 files ```example_switch_13.py``` & ```simple_monitor_13.py```
+- ```pcap_parsing_and_data_training/``` store the code of pcap parser and the ML code for training the clf(classifiers). Those clf are used in RYU later
+- ```ryu_code/``` store the ryu controller codes, there will be only 2 files ```example_switch_13.py``` & ```simple_monitor_13.py```
 

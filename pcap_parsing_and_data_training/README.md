@@ -5,7 +5,7 @@
 
 # Directory structure
     +---pcap/
-    |    \--- pre_process_add_label.py # for parse the PCAP file to csv/ in csv format
+    |    \--- pcap_parsing.py # for parse the PCAP file to csv/ in csv format
     |    \--- some sample.pcap # specify its name in pre_process_add_label.py for parsing
     +---csv/
     |    \---set of parsed .csv files
