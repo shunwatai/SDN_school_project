@@ -12,7 +12,7 @@
     |    \---pre_process_add_label.py # label the parsed csv manually and save in 'labeled_dataset/'
     +    \---labeled_dataset/
             \---labeled csv files ready for data training
-            \---tcp_data_training.py # traing the clf for TCP
-            \---DPI_HTTP_training.py # traing the clf for HTTP
+            \---tcp_data_training.py # train the clf for TCP
+            \---DPI_HTTP_training.py # train the clf for HTTP
             \---html/ # html gen by jupyter notebook for ref.
             \---clf/  # trained classifiers
