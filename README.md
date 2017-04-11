@@ -1,5 +1,7 @@
-# What 7 this?
-- This is just a school project that about "SDN security", which means...
+# What is this?
+- This is just a school project that about "SDN security". However, it is not really about the security in SDN. I was actually working on "detecting the traditional malicious traffics in SDN".
+
+- Also:
     -  the code are messy and unreadable.
     -  do not expect has good performance
     -  many bugs
@@ -16,4 +18,3 @@
 ## folder structure in this repo
 - ```pcap_parsing_and_data_training/``` store the code of pcap parser and the ML code for training the clf(classifiers). Those clf are used in RYU later
 - ```ryu_code/``` store the ryu controller codes, there will be only 2 files ```example_switch_13.py``` & ```simple_monitor_13.py```
-
